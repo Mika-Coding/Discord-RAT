@@ -236,6 +236,7 @@ Program contains the stub file which is necessary to make stealer work, it's all
 <br/>
 <br/>
   
-If you like this project give it a star ⭐
+If you like this project give it a star â­
 
 </div>
+ 
